@@ -4,10 +4,10 @@
 - Conheci um novo conceito de tipagem com PropTypes.
 - Utilizei o `localStorage` para ter persistência das tasks inseridas.
 
-Nesse projeto, usei essas bibliotecas:
-- `prop-types`
-- `react-hot-toast`
-- `styled-components`
+Nesse projeto, usei essas bibliotecas: 
+`prop-types` 
+`react-hot-toast` 
+`styled-components`
 
 ### todo list with container-presentational pattern - en 🇺🇸
 
